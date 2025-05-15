@@ -6,7 +6,7 @@ Welcome! This portfolio highlights the work I did in class this semester. Each p
 
 ## 🧭 Adventure Game (Project Two)
 A text-based adventure game created using C#. The player explores multiple locations and interacts with characters.
-![Adventure Game Screenshot](images/adventuregame.png)
+![Adventure Game Screenshot](images/project2.png)
 
 **Skills:** Console programming, classes, methods, user input
 
@@ -14,7 +14,7 @@ A text-based adventure game created using C#. The player explores multiple locat
 
 ## 🪟 Adventure Game WPF (Project Three)
 This project brings the adventure game into a graphical user interface (GUI) using Windows Presentation Foundation (WPF).
-![WPF Game Screenshot](images/wpfgame.png)
+![WPF Game Screenshot](images/project3.png)
 
 **Skills:** WPF, XAML, C#, GUI logic, class interactions
 
@@ -22,6 +22,7 @@ This project brings the adventure game into a graphical user interface (GUI) usi
 
 ## 🔤 Design with Alphanumeric Characters and Loops
 This project involved generating dynamic visual patterns using only characters and loops. The program prints designs made of letters, numbers, and symbols.
+![WPF Game Screenshot](images/acl.png)
 
 **Skills:** Loops, nested logic, character manipulation, console output formatting
 
@@ -29,6 +30,7 @@ This project involved generating dynamic visual patterns using only characters a
 
 ## 🔐 Substitution Cipher
 A program that encrypts and decrypts messages using a custom alphanumeric substitution system.
+![WPF Game Screenshot](images/cipher.png)
 
 **Skills:** Strings, loops, logic, data manipulation
 
@@ -36,6 +38,7 @@ A program that encrypts and decrypts messages using a custom alphanumeric substi
 
 ## 🎵 Cumulative Verse Song
 A fun program that builds a cumulative-style song (like “There Was an Old Lady…”).
+![WPF Game Screenshot](images/song.png)
 
 **Skills:** Nested loops, output formatting
 
