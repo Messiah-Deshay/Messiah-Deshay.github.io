@@ -1,48 +1,38 @@
-# 🎮 My C# Project Portfolio
+## 🧭 Jungle Adventure (Project Two)
+My text-based adventure game called Jungle Adventure. You explore the Jungle with your friends, interact with other characters, and find a Jungle Gem!  
+![Project 2](images/project2.png)
 
-Welcome! This portfolio highlights the work I did in class this semester. Each project showcases a different skill I learned, like coding logic, using arrays, and building apps with WPF.
-
----
-
-## 🧭 Adventure Game (Project Two)
-A text-based adventure game created using C#. The player explores multiple locations and interacts with characters.
-[Project 2](images/project2.png)
-
-**Skills:** Console programming, classes, methods, user input
+**Concepts I Used:** Console programming, OOP, Input Handling
 
 ---
 
-## 🪟 Adventure Game WPF (Project Three)
-This project brings the adventure game into a graphical user interface (GUI) using Windows Presentation Foundation (WPF).
-[Project 3](images/project3.png)
+## 🪟 CircuitSeeker (Project Three)
+This project brings the adventure game into a GUI using WPF. Explore 5 areas and discover robot parts needs to assembly a robot!  
+![Project 3](images/project3.png)
 
-**Skills:** WPF, XAML, C#, GUI logic, class interactions
+**Skills I Used:** WPF, Encapsulation, GUI logic, Simplified initialization
 
 ---
 
 ## 🔤 Design with Alphanumeric Characters and Loops
-This project involved generating dynamic visual patterns using only characters and loops. The program prints designs made of letters, numbers, and symbols.
-[Alphanumeric Characters and Loops](images/acl.png)
+This project involved generating dynamic visual patterns using only characters and loops.  
+![Alphanumeric Characters and Loops](images/acl.png)
 
-**Skills:** Loops, nested logic, character manipulation, console output formatting
+**Skills Used:** Data Conversion, Nested Loops, console output formatting
 
 ---
 
 ## 🔐 Substitution Cipher
-A program that encrypts and decrypts messages using a custom alphanumeric substitution system.
-[Substiution Cipher](images/cipher.png)
+A program that encrypts and decrypts messages using a custom alphanumeric substitution system!  
+![Substitution Cipher](images/cipher.png)
 
-**Skills:** Strings, loops, logic, data manipulation
+**Skills Used:** String, Substitution Cipher Logic, Methods
 
 ---
 
 ## 🎵 Cumulative Verse Song
-A fun program that builds a cumulative-style song (like “There Was an Old Lady…”).
-[Cumulative Verse Song](images/song.png)
+So this program that builds a cumulative-style song (“This is the house that Jack built”).  
+![Cumulative Verse Song](images/song.png)
 
-**Skills:** Nested loops, output formatting
+**Concepts I Used:** Nested loops, Arrays
 
----
-
-## 🧾 About This Site
-This portfolio is hosted using **GitHub Pages**. Built with Markdown. Check out the source code [here](https://github.com/Messiah-Deshay/MessiahDeshay.github.io).
