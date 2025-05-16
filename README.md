@@ -23,7 +23,7 @@ This project involved generating dynamic visual patterns using only characters a
 ---
 
 ## 🔐 Substitution Cipher
-A program that encrypts and decrypts messages using a custom alphanumeric substitution system!  
+So this Encrypts and decrypts messages using a custom alphanumeric substitution system!  
 ![Substitution Cipher](images/cipher.png)
 
 **Skills Used:** String, Substitution Cipher Logic, Methods
@@ -31,7 +31,7 @@ A program that encrypts and decrypts messages using a custom alphanumeric substi
 ---
 
 ## 🎵 Cumulative Verse Song
-So this program that builds a cumulative-style song (“This is the house that Jack built”).  
+Finally this program that builds a cumulative-style song (“This is the house that Jack built”).  
 ![Cumulative Verse Song](images/song.png)
 
 **Concepts I Used:** Nested loops, Arrays
